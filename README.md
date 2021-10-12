@@ -215,14 +215,14 @@ DURANTE LA PRUEBA
 ------------
 HERRAMIENTAS
 ----------
-https://zoom.us/
-https://meet.google.com/
-https://www.usertesting.com/
-https://www.trymyui.com/
-https://loopback.io/
-https://maze.design/
-https://www.tobiipro.com/
-https://www.loom.com/
+* https://zoom.us/
+* https://meet.google.com/
+* https://www.usertesting.com/
+* https://www.trymyui.com/
+* https://loopback.io/
+* https://maze.design/
+* https://www.tobiipro.com/
+* https://www.loom.com/
 
 ------------
 ANÁLISIS RESULTADOS 
