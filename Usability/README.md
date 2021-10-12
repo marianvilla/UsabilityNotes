@@ -1,5 +1,4 @@
 # Usability Notes
-Usability and Information Architecture 
 
 ## CARACTERÍSTICAS de un buen diseño: 
 * Exploración: Descubrir qué opciones son posibles. 
