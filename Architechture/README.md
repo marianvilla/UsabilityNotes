@@ -192,6 +192,11 @@ Un estudio de caso de IA: https://bit.ly/369HQDR
 
 [7 best Card Sorting tools] (https://medium.com/uxness/7-best-card-sorting-tools-6f05780f970a)
 
+***Técnica de Card Sorting**
+https://www.youtube.com/watch?v=-icR4aA7j84
+**Card Sorting con Optimal Workshop**
+https://www.youtube.com/watch?v=jVJM2ClAgAs
+
 4. Cree una jerarquía de sitios web para una navegación fácil de usar
 + Navegación
 + Etiquetado
@@ -371,6 +376,19 @@ Ser claros desde el inicio, ser concretos, usar convenciones, destacar las accio
 - Procesos Claros:
 * Desde el comienzo el usuario debe saber cómo lograr su objetivo.
 - Usa Lenguaje Común.
+
+### Los ocho principios de la arquitectura de la información
+Estos ocho principios fueron definidos por Dan Brown, cofundador de la compañía de diseño EightShapes. Un arquitecto de información debe atenerse a ellos para construir un producto:
+
++ Principio de los objetos: un contenido es un ser vivo con su ciclo de vida, comportamientos y atributos.
++ Principio de opciones: las páginas de un producto deben ofrecer una serie de opciones significativas para los usuarios.
++ Principio de divulgación: no se debe sobrecargar a los usuarios con información; mostrar solo información suficiente para ayudarlos a comprender qué tipo de información encontrarán a medida que profundicen.
++ Principio de ejemplos: la mejor manera de describir las categorías de contenido es mostrar ejemplos de los contenidos.
++ Principio de puertas principales: suponga que al menos la mitad de los visitantes del sitio web pasarán por otra página que no sea la página de inicio.
++ Principio de clasificación múltiple: ofrezca a los usuarios varios esquemas de clasificación diferentes para explorar el contenido del sitio.
++ Principio de navegación enfocada: no mezcle diferentes categorías en su esquema de navegación.
++ Principio de crecimiento: suponga que el contenido que tiene hoy es una pequeña fracción del contenido que tendrá mañana.
+
 
 ### BOOKS: 
 + Information Architecture: For the Web and Beyond (Inglés) Tapa blanda – 11 octubre 2015
