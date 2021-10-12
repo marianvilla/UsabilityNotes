@@ -2,14 +2,14 @@
 Usability and Information Architecture 
 
 ## CARACTERÍSTICAS de un buen diseño: 
-*Exploración: Descubrir qué opciones son posibles. 
-*Entendimiento: Señales que lo que quiero es posible. 
-*Prestaciones: Funcionalidades de la app. 
-*Visibilidad
-*Modelo Conceptual
-*Topografía: Forma
-*Retroalimentación
-*Conocimiento cabeza y el mundo
+* Exploración: Descubrir qué opciones son posibles. 
+* Entendimiento: Señales que lo que quiero es posible. 
+* Prestaciones: Funcionalidades de la app. 
+* Visibilidad
+* Modelo Conceptual
+* Topografía: Forma
+* Retroalimentación
+* Conocimiento cabeza y el mundo
 
 ## Principios de UX
 1. *No me hagas pensar*: El diseño debe ser obvio, evidente, claro y facil de entender. Evitar preguntas en la mente del usuario como ¿Pór donde empiezo?, ¿Puedo hacer click a esto?
